@@ -32,7 +32,6 @@
 <hr/>
 
 <div align="center">
-  <h2 align="center">🚧 Cuidado, Cobra Trabalhando 🚧</h2>
   <img alt="cobra comendo minhas contribuições" src="https://raw.githubusercontent.com/guilhermessantosdev/guilhermessantosdev/main/dist/github-contribution-grid-snake-dark.svg" />
 </div>
 <br/>
